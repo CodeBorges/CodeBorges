@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello Word :globe_with_meridians:
+
+## I'm João Victor Borges
+
+
+### 💻 Desenvolvedor front end em processo de aprendizado contínuo
 
 <!--
 **CodeBorges/CodeBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
