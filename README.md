@@ -3,7 +3,7 @@
 ## I'm João Victor Borges
 
 
-### 💻 Desenvolvedor front end em processo de aprendizado contínuo
+### 💻 Desenvolvedor em processo de aprendizado contínuo
 
 
 <p><strong><h1>SKILLS</p></strong></h1>
